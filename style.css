@@ -1,0 +1,46 @@
+#title {
+    background-color:#EEE2DC; 
+
+}
+body {
+    background-color:#AC3B61;
+
+}
+h2 {
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color:#EDC7B7; 
+    text-align: center;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+  
+
+  #footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#Carousel {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #AC3B61
+}
+.Carousel-item {
+    padding: 7% 15%;
+}
+
+.Carousel-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 10px;
+}
